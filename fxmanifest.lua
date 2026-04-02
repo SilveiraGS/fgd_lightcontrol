@@ -4,7 +4,7 @@ lua54 "yes"
 
 author "Forge Group"
 description "Controlador de giroflex"
-version "1.1.8"
+version "1.1.9"
 
 ui_page "ui/index.html"
 
